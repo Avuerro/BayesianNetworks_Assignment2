@@ -24,7 +24,7 @@ This repo also contains the following important files:
  - `assignment2.R` contains the fundamental code regarding the project: Building the Bayesian network, fitting it, performing predictions and computing path coefficients.
  - `data_exploration.R` contains all the code that we used for exploring and preprocessing the dataset. 
  - `forestfires.csv` is the original dataset, as it is publicly available on the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Forest+Fires). This data is used in `data_exploration.R`.
- - `explored_forestfires.csv` contains the preprocessed data, after executing `data_exploration.R`. This file is used in `assignment1.R`.
+ - `explored_forestfires.csv` contains the preprocessed data, after executing `data_exploration.R`. This file is used in `assignment2.R`.
 
 ## Collaboration
 
